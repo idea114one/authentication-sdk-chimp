@@ -1,0 +1,22 @@
+{
+  "name": "chimpchange-authentication-sdk",
+  "version": "0.0.1",
+  "authors": [
+    "Web Univariate <cc.web@univariatetechnology.com>"
+  ],
+  "description": "user based authentication",
+  "main": "authentication/authentication.js",
+  "keywords": [
+    "chimpchange",
+    "authentication"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

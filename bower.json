@@ -5,7 +5,7 @@
     "Web Univariate <cc.web@univariatetechnology.com>"
   ],
   "description": "user based authentication",
-  "main": "authentication/authentication.js",
+  "main": "dist/authentication.js",
   "keywords": [
     "chimpchange",
     "authentication"
